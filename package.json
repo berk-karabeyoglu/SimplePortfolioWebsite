@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "simple-is": "^0.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url" : "https://github.com/berk-karabeyoglu/SimplePortfolio.git"
+  }
+}
