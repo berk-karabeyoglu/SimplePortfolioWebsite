@@ -1,9 +1,0 @@
-{
-  "dependencies": {
-    "mongoose": "^6.2.2"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/berk-karabeyoglu/SimplePortfolioWebsite.git"
-  }
-}
